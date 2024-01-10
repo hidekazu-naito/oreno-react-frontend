@@ -4,5 +4,6 @@
 
 ```bash
 docker container exec -it oreno-react-frontend sh
-npm run dev
+cd oreno
+yarn dev
 ```
